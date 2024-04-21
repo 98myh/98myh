@@ -1,13 +1,13 @@
 # MOON YOUNG HYUN 😉
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F98myh&count_bg=%2335C6FF&title_bg=%234A94EB&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<a href="https://github.com/98myh/github-readme-stats">
+<a href="#">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=98myh&layout=donut&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
 </a>    
-<a href="https://github.com/98myh/github-readme-stats">
+<a href="#">
   <img src="https://github-readme-stats.vercel.app/api?username=98myh&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" width=56% />
 </a>
-<a href="https://github.com/98myh/github-readme-activity-graph">
+<a href="#">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=98myh&theme=react-dark&bg_color=000&hide_border=true&line=7F3ACE&color=7F3ACE" width=94%/>
 </a>
 
